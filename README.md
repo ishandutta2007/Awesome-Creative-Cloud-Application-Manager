@@ -1,52 +1,61 @@
-# Awesome-Creative-Cloud-Application-Manager
+# Awesome Creative Cloud Application Manager 🚀
 
-# Awesome-Creative-Cloud-Application-Manager
+<div align="center">
 
-## Top Creative Cloud Application Manager Ecosystem
+<a href="https://github.com/ishandutta2007/Awesome-Creative-Cloud-Application-Manager">
+  <img src="assets/banner.svg" alt="Awesome Creative Cloud Application Manager Banner" width="100%" />
+</a>
 
+<br/><br/>
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Creative-Cloud-Application-Manager/pulls)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Creative-Cloud-Application-Manager/graphs/commit-activity)
+[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Creative-Cloud-Application-Manager?style=social)](https://github.com/ishandutta2007/Awesome-Creative-Cloud-Application-Manager/stargazers)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+<br/>
 
-*Focused on Self-Service Software Portals, Endpoint App Management & Self-Hosted Distribution Platforms*  
+**Curated collection of SaaS platforms, enterprise endpoint self-service portals, and open-source application distribution pipelines.**
 
-**Last updated: October 2026**
+*Optimize client software deployment, automate patch rollouts, streamline zero-touch provisioning, and distribute apps across macOS, Windows, and Linux.*
 
+</div>
 
+---
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Creative Cloud Application Managers**. These tools provide a self-service portal or management layer for deploying, updating, and removing applications on end-user devices—ranging from creative-focused app managers like Adobe Creative Cloud Desktop to enterprise endpoint management platforms with curated app catalogs.
+## 📑 Table of Contents
 
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Platforms](#️-saas--hosted-platforms)
+- [💻 Open-Source Software & GitHub Projects](#-open-source-software--github-projects)
+  - [Featured Self-Hosting Solutions](#featured-self-hosting-solutions)
+  - [Open-Source Package & Fleet Managers](#open-source-package--fleet-managers)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⭐ Star History](#-star-history)
+- [⚠️ Disclaimer](#️-disclaimer)
 
+---
 
-**Examples** include Adobe Creative Cloud Desktop, Microsoft Company Portal (Intune), Jamf Self Service, ManageEngine Self Service Portal, VMware Workspace ONE Hub, PDQ Connect, Kandji Self Service, and NinjaOne (the category leaders).
+## 📊 Sector Overview & Market Dynamics
 
+The global **Unified Endpoint Management (UEM)** and **self-service software distribution portal** market is projected to reach **$8.7B–$10.5B in 2026**, registering a Compound Annual Growth Rate (CAGR) of **~18–22%**. This accelerated expansion is catalyzed by distributed hybrid workforces, multi-operating system estates (macOS, Windows, Linux, iOS, Android), and stringent Zero-Trust compliance frameworks.
 
+The market structure is **moderately concentrated**:
+* **The Consolidated Enterprise Tier**: Titans such as **Microsoft (Intune)** and **VMware / Omnissa (Workspace ONE)** anchor massive global corporate accounts by tightly bundling endpoint controls into unified identity, productivity, and cloud security contracts.
+* **Specialized & Disruptive Challenger Tier**: High-growth challengers like **NinjaOne**, **Jamf**, **ManageEngine (Zoho)**, **Rippling**, and **Kandji (Iru)** capture substantial market share by engineering superior workflows tailored for Apple ecosystem depth, Managed Service Providers (MSPs), cross-platform rapid patching, and automated employee onboarding.
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, avoiding per-device SaaS fees, and controlling the application distribution pipeline. The open-source landscape is thinner than in other categories—most endpoint management is commercial—but **Distr** provides an open-source control plane for distributing applications to self-managed environments, with **Action1** offering a generous free tier for patching up to 200 endpoints.
+---
 
+## ☁️ SaaS & Hosted Platforms
 
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
-
-The global Unified Endpoint Management (UEM) and self-service application portal market is estimated at **$8.7B–$10.5B in 2026**, growing at a CAGR of ~18–22% fueled by hybrid enterprise fleets, multi-OS environments, and zero-trust security postures. The sector is **moderately concentrated**: foundational platform giants (such as Microsoft and VMware/Omnissa) anchor enterprise suites through bundled identity and security contracts, while specialized and mid-market vendors (such as NinjaOne, Jamf, ManageEngine, and Kandji) maintain significant share by addressing Apple-specific workflows, MSP tooling, and lean IT automation.
-
-## SaaS/Hosted Platforms
+The following enterprise SaaS platforms provide managed self-service portals, automated app provisioning catalogs, and compliance controls. Ranked by company valuation and annual revenue scale (descending).
 
 | Product | Company Valuation / Revenue | Description | Pricing | Free Tier Limit |
 | :--- | :--- | :--- | :--- | :--- |
-| **[Microsoft Company Portal (Intune)](https://learn.microsoft.com/en-us/intune/intune-service/user-help/sign-in-to-the-company-portal)** | **$3.1T+** Market Cap (Microsoft) | Intune's self-service app for accessing corporate resources, installing approved apps, and managing device compliance. | Intune Plan 1 starts at **$8.00/user/month** (annual commitment). Also included with Microsoft 365 Business Premium ($22.00/user/month). | **30-day free trial** of Microsoft Intune Plan 1 / Microsoft 365 Enterprise (supporting up to 25 user licenses); no permanent free tier. |
+| **[Microsoft Company Portal (Intune)](https://learn.microsoft.com/en-us/intune/intune-service/user-help/sign-in-to-the-company-portal)** | **$3.1T+** Market Cap (Microsoft) | Intune's enterprise self-service app for accessing corporate apps, installing curated software catalogs, and verifying device compliance. | Intune Plan 1 starts at **$8.00/user/month** (annual commitment). Also included with Microsoft 365 Business Premium ($22.00/user/month). | **30-day free trial** of Microsoft Intune Plan 1 / Microsoft 365 Enterprise (supporting up to 25 user licenses); no permanent free tier. |
 | **[Adobe Creative Cloud Desktop](https://helpx.adobe.com/creative-cloud/help/manage-apps-services-desktop.html)** | **$215B+** Market Cap / ~$21.5B Revenue (Adobe) | Adobe's client application manager for installing and updating Creative Cloud apps, syncing cloud assets, and managing fonts. | Client app is **Free** to install. Paid app plans start at **$9.99/month** (Lightroom) and Creative Cloud All Apps starts at **$59.99/month**. | **Free-for-ever membership** included with free Adobe ID (access to Adobe Express Free tier, 2GB cloud storage, limited Adobe Fonts, and trial downloads). |
 | **[Rippling App Management](https://www.rippling.com/products/it)** | **$13.5B** Valuation | Unified IT workforce platform providing automated hardware deployment, app catalog provisioning, and zero-touch employee offboarding. | Base platform starts at **$8.00/user/month** plus a ~$35/month base fee; IT App & Device Management add-on modules start at **~$6.00/user/month**. | **No free tier or public self-serve trial**; private product walkthrough and tailored quote sandbox provided via sales demo only. |
 | **[NinjaOne](https://www.ninjaone.com/)** | **$12.3B** Valuation | Unified IT operations and endpoint management platform with multi-tenant RMM, patch deployment, MDM, and end-user self-service portal. | Starts at **$1.50–$3.75/device/month** based on volume commitments and selected platform modules. | **14-day free trial** with full access to RMM, endpoint patching, and remote management features for up to 50 devices; no permanent free tier. |
@@ -57,72 +66,82 @@ The global Unified Endpoint Management (UEM) and self-service application portal
 | **[Automox](https://www.automox.com/)** | **$600M** Valuation | Cloud-native endpoint configuration, automated third-party software distribution, and cross-OS vulnerability remediation platform. | **Patch OS** tier starts at **$1.00/endpoint/month** (billed annually); full third-party app deployment (Automate Essentials) starts at **$3.00/endpoint/month**. | **15-day free trial** providing unrestricted access to patch deployment, worklets, and inventory reporting; no permanent free tier. |
 | **[PDQ Connect](https://www.pdq.com/)** | **~$45M** Revenue / ~$300M+ PE Institutional Funding | Agent-based cloud endpoint management platform providing automated software distribution, third-party package libraries, and inventory. | **Connect Basic** tier starts at **$12.00/device/year** ($1.00/device/month); **Connect Plus** starts at **$18.00/device/year** ($1.50/device/month). | **14-day free trial** of Connect Premium (identity verification required to unlock custom package deployment and remote tools); no permanent free tier. |
 
-## Open-Source GitHub Projects
+---
 
+## 💻 Open-Source Software & GitHub Projects
 
+Open-source tooling empowers sysadmins, DevOps, and platform engineering teams to maintain full control over the distribution pipeline, eliminate recurring per-device license costs, and automate software delivery across workstations.
 
-- **[Distr](https://github.com/syllogy/distr)** [![GitHub Stars](https://img.shields.io/github/stars/syllogy/distr?style=social&color=white)](https://github.com/syllogy/distr/stargazers)  
+All repositories are sorted below by their **GitHub star count (descending)**.
 
-  **The open-source software distribution platform.** Apache 2.0 licensed. Designed for software and AI companies to distribute applications to self-managed customers with minimal setup . **Features**: centralized management of deployments, artifacts, and agents; deployment automation via Helm and Docker agents; **white-label customer portal** for license management; container registry for OCI artifacts; and a rich SDK. **Deployment**: Docker Compose or Kubernetes Helm chart. **Self-hostable**—full control over the distribution pipeline . Best for software vendors and platform teams needing an open-source control plane for on-prem/BYOC application distribution.
+### Featured Self-Hosting Solutions
 
+- **[Ansible](https://github.com/ansible/ansible)** [![GitHub stars](https://img.shields.io/github/stars/ansible/ansible?style=social&color=white)](https://github.com/ansible/ansible/stargazers)  
+  *Radically simple IT automation system.* Deploys applications, configures workstations, and orchestrates endpoint software distribution across Linux, macOS, and Windows fleets without requiring dedicated user client agents.
 
+- **[Homebrew](https://github.com/Homebrew/brew)** [![GitHub stars](https://img.shields.io/github/stars/Homebrew/brew?style=social&color=white)](https://github.com/Homebrew/brew/stargazers)  
+  *The missing package manager for macOS (and Linux).* Widely utilized as the underlying CLI package engine for self-hosted developer app catalogs, Homebrew Cask automated app provisioning, and workstation setup scripts.
+
+- **[osquery](https://github.com/osquery/osquery)** [![GitHub stars](https://img.shields.io/github/stars/osquery/osquery?style=social&color=white)](https://github.com/osquery/osquery/stargazers)  
+  *SQL powered operating system instrumentation, monitoring, and analytics.* Exposes an entire operating system as a high-performance relational database, allowing administrators to query installed applications, versions, and security states across OS X, Windows, and Linux fleets.
+
+- **[Salt](https://github.com/saltstack/salt)** [![GitHub stars](https://img.shields.io/github/stars/saltstack/salt?style=social&color=white)](https://github.com/saltstack/salt/stargazers)  
+  *Software to automate the management and configuration of any infrastructure or application at scale.* Features high-speed event-driven remote execution, software deployment packages, and granular configuration management for cross-platform endpoints.
+
+- **[Chocolatey CLI](https://github.com/chocolatey/choco)** [![GitHub stars](https://img.shields.io/github/stars/chocolatey/choco?style=social&color=white)](https://github.com/chocolatey/choco/stargazers)  
+  *The package manager for Windows.* Provides automated software deployment, uninstallation, and upgrade routines across millions of Windows endpoints, serving as the foundational package engine for internal software self-service portals.
+
+- **[Fleet](https://github.com/fleetdm/fleet)** [![GitHub stars](https://img.shields.io/github/stars/fleetdm/fleet?style=social&color=white)](https://github.com/fleetdm/fleet/stargazers)  
+  *Open-source device management (MDM) and visibility platform built on osquery.* Supports real-time application inventory, software installation, script execution, and continuous compliance for macOS, Windows, Linux, and ChromeOS devices.
+
+- **[Munki](https://github.com/munki/munki)** [![GitHub stars](https://img.shields.io/github/stars/munki/munki?style=social&color=white)](https://github.com/munki/munki/stargazers)  
+  *Managed software installation for macOS.* The gold-standard open-source web-repository-based software installer and Self Service GUI portal for Apple fleets. Allows IT admins to manage installations, dependencies, licenses, and unattended app updates.
+
+- **[Distr](https://github.com/distr-sh/distr)** [![GitHub stars](https://img.shields.io/github/stars/distr-sh/distr?style=social&color=white)](https://github.com/distr-sh/distr/stargazers)  
+  *The open-source software distribution platform.* Designed for software vendors and engineering teams to distribute applications directly to self-managed, BYOC, and on-premises customer environments with a built-in white-label customer portal, license management, Helm/Docker Compose runners, and OCI artifact registries.
+
+- **[AutoPkg](https://github.com/autopkg/autopkg)** [![GitHub stars](https://img.shields.io/github/stars/autopkg/autopkg?style=social&color=white)](https://github.com/autopkg/autopkg/stargazers)  
+  *Automating packaging and software distribution for macOS.* Automatically downloads, tests, packages, and imports new application versions directly into Munki, Jamf Pro, and other endpoint application managers.
+
+- **[Nudge](https://github.com/macadmins/nudge)** [![GitHub stars](https://img.shields.io/github/stars/macadmins/nudge?style=social&color=white)](https://github.com/macadmins/nudge/stargazers)  
+  *A tool for encouraging the installation of macOS updates.* Seamlessly nudges end-users to update operating systems and mission-critical applications within customizable grace periods.
 
 - **[Action1](https://www.action1.com/)**  
-
-  **The free-tier patch and app management platform.** Not fully open-source, but included for its exceptional free tier. Provides cloud-based patch management, software deployment, and endpoint visibility. **Free tier**: Up to **200 endpoints** with all features included . Best for small IT teams wanting zero-cost patching and app deployment without a commercial commitment.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Ansible** — Agentless configuration management that can handle software deployment across Linux, Windows, and network devices. Best for scripted, reproducible app installation without a dedicated portal UI.
-
-- **Chocolatey** — Windows package manager for automated software installation. Best as the underlying engine for a self-hosted app catalog.
-
-- **Homebrew** — macOS package manager for command-line software installation. Best for developer-focused macOS fleets.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- **Open-source options are scarce in this category**: most Creative Cloud application management is commercial endpoint management. **Distr** is the only fully open-source distribution platform found, and it targets software vendors rather than internal IT self-service portals . **Action1's free tier** (200 endpoints) is the most generous free offering but is proprietary .
-
-- **Adobe Creative Cloud Desktop is not an enterprise self-service portal**: it manages Creative Cloud apps for individual users but lacks the curated catalog, approval workflows, and device compliance features of Intune, Jamf, or Kandji .
-
-- **Pricing varies significantly by model**: Automox charges **$1/endpoint/month** for basic patching ; NinjaOne scales **$1.50–$3.75/device/month** ; Rippling starts at **$8/user/month** for core HRIS . Model your device/user mix before committing.
-
-- **Free trials are standard but limited**: PDQ Connect offers **14 days** with identity verification required ; NinjaOne offers **14 days** . None offer permanent free production tiers except Action1's 200-endpoint allowance .
-
-
+  *Cloud-based patch management and software deployment platform.* While proprietary, Action1 is highlighted for its unique **free-for-ever tier covering up to 200 endpoints** with full feature parity (third-party patching, software catalog deployment, IT asset discovery, and vulnerability management).
 
 ---
 
+## 🤝 How to Contribute
 
+Contributions are welcome! Help make this curated guide the most comprehensive index for application managers and software distribution:
 
-**Made for IT administrators, endpoint engineers, and organizations managing application deployment at scale.**  
+1. 🍴 **Fork the repository**
+2. 🌿 **Create a new branch**: `git checkout -b feature/new-app-manager`
+3. ✏️ **Add your entry** to `README.md` (keep descriptions objective, link official sites, and follow the existing table/list formatting)
+4. 🚀 **Submit a Pull Request** with a concise description of why the tool belongs in this list
 
-Let's make Creative Cloud application management more open, self-serviceable, and appropriately scoped.
+---
+
+## 💖 Support & Sponsorship
+
+If you found this curated list helpful for your IT infrastructure, DevOps pipeline, or enterprise architecture, consider supporting the maintenance of this repository:
+
+* ⭐ **Star** this repository on GitHub to help others discover it
+* 🍴 **Fork** and share it with colleagues and DevOps communities
+* ☕ **Buy a coffee / Sponsor**: Support ongoing maintenance on the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007)
+
+Thank you for being part of the open-source community! 🙌
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Creative-Cloud-Application-Manager&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Creative-Cloud-Application-Manager&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This is an independent, community-curated collection intended for educational and architectural evaluation.
+- All product names, logos, and brands are property of their respective owners. Mentioning them does not imply affiliation or endorsement.
+- Verify latest vendor pricing, licensing agreements, and trial policies directly with suppliers before committing enterprise resources.
