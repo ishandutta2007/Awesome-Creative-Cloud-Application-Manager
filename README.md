@@ -12,7 +12,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Creative-Cloud-Application-Manager/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Creative-Cloud-Application-Manager/graphs/commit-activity)
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Creative-Cloud-Application-Manager?style=social)](https://github.com/ishandutta2007/Awesome-Creative-Cloud-Application-Manager/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Creative-Cloud-Application-Manager?style=social)](https://github.com/ishandutta2007/Awesome-Creative-Cloud-Application-Manager/stargazers)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 <br/>
@@ -72,38 +72,38 @@ The following enterprise SaaS platforms provide managed self-service portals, au
 
 Open-source tooling empowers sysadmins, DevOps, and platform engineering teams to maintain full control over the distribution pipeline, eliminate recurring per-device license costs, and automate software delivery across workstations.
 
-All repositories are sorted below by their **GitHub star count (descending)**.
+All repositories are sorted below by their **GitHub Stars_Count (descending)**.
 
 ### Featured Self-Hosting Solutions
 
-- **[Ansible](https://github.com/ansible/ansible)** [![GitHub stars](https://img.shields.io/github/stars/ansible/ansible?style=social&color=white)](https://github.com/ansible/ansible/stargazers)  
+- **[Ansible](https://github.com/ansible/ansible)** [![GitHub_Stars](https://img.shields.io/github/stars/ansible/ansible?style=social&color=white)](https://github.com/ansible/ansible/stargazers)  
   *Radically simple IT automation system.* Deploys applications, configures workstations, and orchestrates endpoint software distribution across Linux, macOS, and Windows fleets without requiring dedicated user client agents.
 
-- **[Homebrew](https://github.com/Homebrew/brew)** [![GitHub stars](https://img.shields.io/github/stars/Homebrew/brew?style=social&color=white)](https://github.com/Homebrew/brew/stargazers)  
+- **[Homebrew](https://github.com/Homebrew/brew)** [![GitHub_Stars](https://img.shields.io/github/stars/Homebrew/brew?style=social&color=white)](https://github.com/Homebrew/brew/stargazers)  
   *The missing package manager for macOS (and Linux).* Widely utilized as the underlying CLI package engine for self-hosted developer app catalogs, Homebrew Cask automated app provisioning, and workstation setup scripts.
 
-- **[osquery](https://github.com/osquery/osquery)** [![GitHub stars](https://img.shields.io/github/stars/osquery/osquery?style=social&color=white)](https://github.com/osquery/osquery/stargazers)  
+- **[osquery](https://github.com/osquery/osquery)** [![GitHub_Stars](https://img.shields.io/github/stars/osquery/osquery?style=social&color=white)](https://github.com/osquery/osquery/stargazers)  
   *SQL powered operating system instrumentation, monitoring, and analytics.* Exposes an entire operating system as a high-performance relational database, allowing administrators to query installed applications, versions, and security states across OS X, Windows, and Linux fleets.
 
-- **[Salt](https://github.com/saltstack/salt)** [![GitHub stars](https://img.shields.io/github/stars/saltstack/salt?style=social&color=white)](https://github.com/saltstack/salt/stargazers)  
+- **[Salt](https://github.com/saltstack/salt)** [![GitHub_Stars](https://img.shields.io/github/stars/saltstack/salt?style=social&color=white)](https://github.com/saltstack/salt/stargazers)  
   *Software to automate the management and configuration of any infrastructure or application at scale.* Features high-speed event-driven remote execution, software deployment packages, and granular configuration management for cross-platform endpoints.
 
-- **[Chocolatey CLI](https://github.com/chocolatey/choco)** [![GitHub stars](https://img.shields.io/github/stars/chocolatey/choco?style=social&color=white)](https://github.com/chocolatey/choco/stargazers)  
+- **[Chocolatey CLI](https://github.com/chocolatey/choco)** [![GitHub_Stars](https://img.shields.io/github/stars/chocolatey/choco?style=social&color=white)](https://github.com/chocolatey/choco/stargazers)  
   *The package manager for Windows.* Provides automated software deployment, uninstallation, and upgrade routines across millions of Windows endpoints, serving as the foundational package engine for internal software self-service portals.
 
-- **[Fleet](https://github.com/fleetdm/fleet)** [![GitHub stars](https://img.shields.io/github/stars/fleetdm/fleet?style=social&color=white)](https://github.com/fleetdm/fleet/stargazers)  
+- **[Fleet](https://github.com/fleetdm/fleet)** [![GitHub_Stars](https://img.shields.io/github/stars/fleetdm/fleet?style=social&color=white)](https://github.com/fleetdm/fleet/stargazers)  
   *Open-source device management (MDM) and visibility platform built on osquery.* Supports real-time application inventory, software installation, script execution, and continuous compliance for macOS, Windows, Linux, and ChromeOS devices.
 
-- **[Munki](https://github.com/munki/munki)** [![GitHub stars](https://img.shields.io/github/stars/munki/munki?style=social&color=white)](https://github.com/munki/munki/stargazers)  
+- **[Munki](https://github.com/munki/munki)** [![GitHub_Stars](https://img.shields.io/github/stars/munki/munki?style=social&color=white)](https://github.com/munki/munki/stargazers)  
   *Managed software installation for macOS.* The gold-standard open-source web-repository-based software installer and Self Service GUI portal for Apple fleets. Allows IT admins to manage installations, dependencies, licenses, and unattended app updates.
 
-- **[Distr](https://github.com/distr-sh/distr)** [![GitHub stars](https://img.shields.io/github/stars/distr-sh/distr?style=social&color=white)](https://github.com/distr-sh/distr/stargazers)  
+- **[Distr](https://github.com/distr-sh/distr)** [![GitHub_Stars](https://img.shields.io/github/stars/distr-sh/distr?style=social&color=white)](https://github.com/distr-sh/distr/stargazers)  
   *The open-source software distribution platform.* Designed for software vendors and engineering teams to distribute applications directly to self-managed, BYOC, and on-premises customer environments with a built-in white-label customer portal, license management, Helm/Docker Compose runners, and OCI artifact registries.
 
-- **[AutoPkg](https://github.com/autopkg/autopkg)** [![GitHub stars](https://img.shields.io/github/stars/autopkg/autopkg?style=social&color=white)](https://github.com/autopkg/autopkg/stargazers)  
+- **[AutoPkg](https://github.com/autopkg/autopkg)** [![GitHub_Stars](https://img.shields.io/github/stars/autopkg/autopkg?style=social&color=white)](https://github.com/autopkg/autopkg/stargazers)  
   *Automating packaging and software distribution for macOS.* Automatically downloads, tests, packages, and imports new application versions directly into Munki, Jamf Pro, and other endpoint application managers.
 
-- **[Nudge](https://github.com/macadmins/nudge)** [![GitHub stars](https://img.shields.io/github/stars/macadmins/nudge?style=social&color=white)](https://github.com/macadmins/nudge/stargazers)  
+- **[Nudge](https://github.com/macadmins/nudge)** [![GitHub_Stars](https://img.shields.io/github/stars/macadmins/nudge?style=social&color=white)](https://github.com/macadmins/nudge/stargazers)  
   *A tool for encouraging the installation of macOS updates.* Seamlessly nudges end-users to update operating systems and mission-critical applications within customizable grace periods.
 
 - **[Action1](https://www.action1.com/)**  
