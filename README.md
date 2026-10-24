@@ -32,45 +32,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global Unified Endpoint Management (UEM) and self-service application portal market is estimated at **$8.7B–$10.5B in 2026**, growing at a CAGR of ~18–22% fueled by hybrid enterprise fleets, multi-OS environments, and zero-trust security postures. The sector is **moderately concentrated**: foundational platform giants (such as Microsoft and VMware/Omnissa) anchor enterprise suites through bundled identity and security contracts, while specialized and mid-market vendors (such as NinjaOne, Jamf, ManageEngine, and Kandji) maintain significant share by addressing Apple-specific workflows, MSP tooling, and lean IT automation.
 
 ## SaaS/Hosted Platforms
 
-
-
-| Product | Description | Pricing | Free Tier Limit |
-
-| :--- | :--- | :--- | :--- |
-
-| **[Adobe Creative Cloud Desktop](https://helpx.adobe.com/creative-cloud/help/manage-apps-services-desktop.html)** | Adobe's app manager for downloading, installing, and updating Creative Cloud applications, managing fonts, and accessing Stock assets . | **Free** to download and use. Requires an Adobe account; paid Creative Cloud subscription for the applications themselves . | **Free Creative Cloud membership** available with limited benefits (Adobe Express, mobile apps, fonts). Paid plans for full apps . |
-
-| **[Microsoft Company Portal (Intune)](https://learn.microsoft.com/en-us/intune/intune-service/user-help/sign-in-to-the-company-portal)** | Intune's self-service app for accessing corporate resources, installing approved apps, and managing device compliance . | Included with **Microsoft Intune** subscriptions. Intune Plan 1 starts at **$8/user/month** . | **No standalone free tier**. Included with qualifying Microsoft 365 or EMS subscriptions. Trial available. |
-
-| **[Jamf Self Service+](https://www.jamf.com/)** | Apple-focused self-service portal for installing approved apps, requesting admin rights, and running troubleshooting scripts . | **Free for all Jamf Pro customers** . Jamf Pro pricing: **iOS $3.33/device/month**, **macOS $7.17/device/month** . | **No standalone free tier**. Requires Jamf Pro subscription. |
-
-| **[ManageEngine Self Service Portal](https://www.manageengine.com/products/desktop-central/)** | Endpoint Central's self-service portal for publishing approved software to users/computers . | Included with **Endpoint Central** licenses. Professional: **$1.09/endpoint/month**; Enterprise: $1.37/endpoint/month . | **Free Edition**: Up to **25 endpoints** permanently. **30-day trial** of full features . |
-
-| **[VMware Workspace ONE Intelligent Hub](https://docs.omnissa.com/)** | Unified app catalog and self-service portal for accessing corporate resources, apps, and support . | **Standard (Shared Cloud)**: **$117.99/user/year** (list via CDW) . | **No free version and no free trial** per Software Advice . |
-
-| **[PDQ Connect](https://www.pdq.com/)** | Cloud-based endpoint management with software deployment, patching, and a curated package library . | **Per-device annual subscription** with three tiers (Basic, Plus, Premium). Published at pdq.com; self-service purchasing . | **14-day free trial** (Premium tier) with identity verification required to unlock custom packages and remote desktop . |
-
-| **[Kandji Self Service (now Iru)](https://www.kandji.io/)** | Apple-focused self-service app for downloading curated apps and tools from IT . | **Free for all Kandji customers** . Kandji pricing: **$3.20–$8/device/month** . | **No standalone free tier**. Requires Kandji subscription. |
-
-| **[NinjaOne](https://www.ninjaone.com/)** | Unified IT operations platform with RMM, patching, MDM, and a self-service portal . | **$1.50–$3.75/device/month** depending on volume . | **14-day free trial** . No permanent free tier. |
-
-| **[Automox](https://www.automox.com/)** | Cloud-native patching and endpoint configuration platform with software deployment . | **Patch OS**: **$1/endpoint/month** (annual). **Automate Essentials**: custom. **Enterprise**: custom . | **Free trial** of full platform. No permanent free tier. |
-
-| **[Rippling App Management](https://www.rippling.com/products/it)** | Unified IT platform with device management, app provisioning, and zero-touch deployment . | **Starting at $8/user/month** (core HRIS); IT modules add cost . | **No free tier**. Demo available. |
-
-
+| Product | Company Valuation / Revenue | Description | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Microsoft Company Portal (Intune)](https://learn.microsoft.com/en-us/intune/intune-service/user-help/sign-in-to-the-company-portal)** | **$3.1T+** Market Cap (Microsoft) | Intune's self-service app for accessing corporate resources, installing approved apps, and managing device compliance. | Intune Plan 1 starts at **$8.00/user/month** (annual commitment). Also included with Microsoft 365 Business Premium ($22.00/user/month). | **30-day free trial** of Microsoft Intune Plan 1 / Microsoft 365 Enterprise (supporting up to 25 user licenses); no permanent free tier. |
+| **[Adobe Creative Cloud Desktop](https://helpx.adobe.com/creative-cloud/help/manage-apps-services-desktop.html)** | **$215B+** Market Cap / ~$21.5B Revenue (Adobe) | Adobe's client application manager for installing and updating Creative Cloud apps, syncing cloud assets, and managing fonts. | Client app is **Free** to install. Paid app plans start at **$9.99/month** (Lightroom) and Creative Cloud All Apps starts at **$59.99/month**. | **Free-for-ever membership** included with free Adobe ID (access to Adobe Express Free tier, 2GB cloud storage, limited Adobe Fonts, and trial downloads). |
+| **[Rippling App Management](https://www.rippling.com/products/it)** | **$13.5B** Valuation | Unified IT workforce platform providing automated hardware deployment, app catalog provisioning, and zero-touch employee offboarding. | Base platform starts at **$8.00/user/month** plus a ~$35/month base fee; IT App & Device Management add-on modules start at **~$6.00/user/month**. | **No free tier or public self-serve trial**; private product walkthrough and tailored quote sandbox provided via sales demo only. |
+| **[NinjaOne](https://www.ninjaone.com/)** | **$12.3B** Valuation | Unified IT operations and endpoint management platform with multi-tenant RMM, patch deployment, MDM, and end-user self-service portal. | Starts at **$1.50–$3.75/device/month** based on volume commitments and selected platform modules. | **14-day free trial** with full access to RMM, endpoint patching, and remote management features for up to 50 devices; no permanent free tier. |
+| **[VMware Workspace ONE Intelligent Hub](https://docs.omnissa.com/)** | **$4.0B** Valuation / ~$1.5B ARR (Omnissa) | Enterprise unified app catalog, single sign-on launcher, and digital workspace self-service portal (formerly VMware EUC, now Omnissa). | Standard Shared Cloud edition starts at **$117.99/user/year** (~$9.83/user/month list via CDW / enterprise resellers). | **No standalone free tier and no public self-service free trial**; pilot environments require enterprise sales engagement. |
+| **[Jamf Self Service+](https://www.jamf.com/)** | **$2.2B** Acquisition Value / ~$650M Revenue (Francisco Partners) | Apple-focused enterprise self-service application catalog allowing users to install approved macOS/iOS apps, run scripts, and manage privileges. | Self Service is bundled with Jamf Pro: iOS/iPadOS starts at **$3.33/device/month**, macOS starts at **$7.17/device/month** (billed annually). | **No permanent free tier**; offers a **14-day free trial** of Jamf Pro with full administrative and self-service capabilities for test devices. |
+| **[ManageEngine Self Service Portal](https://www.manageengine.com/products/desktop-central/)** | **$1.5B** Revenue (~$580M ManageEngine division / Zoho Corp) | Endpoint Central's self-service portal allowing IT teams to publish curated software repositories for user self-installation. | Endpoint Central Professional edition starts at **$1.09/endpoint/month** ($104/year for 25 computers); Enterprise edition starts at **$1.37/endpoint/month**. | **Free-for-ever edition** for up to **25 endpoints** with full patch and software deployment; also offers a **30-day unrestricted trial** for larger deployments. |
+| **[Kandji Self Service (now Iru)](https://www.kandji.io/)** | **$850M** Valuation | Modern Apple and multi-OS device management portal enabling zero-touch installation of pre-approved enterprise applications. | Pricing starts at **$3.20/device/month** for basic tiers and scales to **$8.00/device/month** for full enterprise device suites (annual billing, 100-device minimum). | **14-day free trial** available for qualified organizations via sales onboarding; no permanent free tier. |
+| **[Automox](https://www.automox.com/)** | **$600M** Valuation | Cloud-native endpoint configuration, automated third-party software distribution, and cross-OS vulnerability remediation platform. | **Patch OS** tier starts at **$1.00/endpoint/month** (billed annually); full third-party app deployment (Automate Essentials) starts at **$3.00/endpoint/month**. | **15-day free trial** providing unrestricted access to patch deployment, worklets, and inventory reporting; no permanent free tier. |
+| **[PDQ Connect](https://www.pdq.com/)** | **~$45M** Revenue / ~$300M+ PE Institutional Funding | Agent-based cloud endpoint management platform providing automated software distribution, third-party package libraries, and inventory. | **Connect Basic** tier starts at **$12.00/device/year** ($1.00/device/month); **Connect Plus** starts at **$18.00/device/year** ($1.50/device/month). | **14-day free trial** of Connect Premium (identity verification required to unlock custom package deployment and remote tools); no permanent free tier. |
 
 ## Open-Source GitHub Projects
 
